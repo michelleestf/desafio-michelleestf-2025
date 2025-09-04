@@ -20,7 +20,7 @@ class AbrigoAnimais {
     }
     
     // regra de adoção
-    const resultado = ordemLista.map((animalNome) =>
+    const resultado = ordem.map((animalNome) =>
       definirAdoção(animalNome, brinquedos1, brinquedos2, animais)
     );
 

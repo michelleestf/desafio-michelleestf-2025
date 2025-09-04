@@ -1,0 +1,1 @@
+// Regras de ordem, empate,gato, loco e limite de 3
